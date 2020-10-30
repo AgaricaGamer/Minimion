@@ -1,0 +1,7 @@
+name: Slapper
+author: AgaricaGamer
+version: 1.0.0
+description: Minimion Main Command
+main: minimion\main
+api: 3.0.0
+
