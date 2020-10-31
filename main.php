@@ -9,7 +9,7 @@ use muqsit\invmenu\InvMenuHandler;
 use pocketmine\entity\Entity;
 use pocketmine\plugin\PluginBase;
 
-class PiggyMinions extends PluginBase
+class Minimion extends PluginBase
 {
     public function onEnable(): void
     {
